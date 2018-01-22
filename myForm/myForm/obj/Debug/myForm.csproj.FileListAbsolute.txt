@@ -1,0 +1,9 @@
+E:\ChuckWorkPlace\myForm\myForm\bin\Debug\myForm.exe.config
+E:\ChuckWorkPlace\myForm\myForm\bin\Debug\myForm.exe
+E:\ChuckWorkPlace\myForm\myForm\bin\Debug\myForm.pdb
+E:\ChuckWorkPlace\myForm\myForm\obj\Debug\myForm.csprojResolveAssemblyReference.cache
+E:\ChuckWorkPlace\myForm\myForm\obj\Debug\myForm.Form1.resources
+E:\ChuckWorkPlace\myForm\myForm\obj\Debug\myForm.Properties.Resources.resources
+E:\ChuckWorkPlace\myForm\myForm\obj\Debug\myForm.csproj.GenerateResource.Cache
+E:\ChuckWorkPlace\myForm\myForm\obj\Debug\myForm.exe
+E:\ChuckWorkPlace\myForm\myForm\obj\Debug\myForm.pdb
